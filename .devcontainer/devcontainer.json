@@ -11,7 +11,8 @@
             ],
             "settings": {
                 "latex-workshop.latex.recipe.default": "first",
-                "latex-workshop.latex.autoBuild.run": "onSave",
+                "latex-workshop.latex.outDir": "%DIR%/build",
+                "latex-workshop.latex.autoBuild.run": "never",
                 "latex-workshop.latex.tools": [
                     {
                         "name": "lualatexmk",
