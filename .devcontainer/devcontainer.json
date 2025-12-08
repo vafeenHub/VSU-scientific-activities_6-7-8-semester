@@ -12,6 +12,7 @@
             "settings": {
                 "latex-workshop.latex.recipe.default": "first",
                 "latex-workshop.latex.outDir": "%DIR%/build",
+                "latex-workshop.formatting.latex": "latexindent",
                 "latex-workshop.latex.autoBuild.run": "never",
                 "latex-workshop.latex.tools": [
                     {
