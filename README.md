@@ -1,4 +1,4 @@
-# Отчет по курсовой работе 6 семестр
+# scientific activities in VSU
 
 ## src/works/coursework_6-semester
 
