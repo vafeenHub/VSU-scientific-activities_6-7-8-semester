@@ -1,4 +1,4 @@
-# scientific activities in VSU
+# Scientific activities in VSU 6 7 8 semesters
 
 ## src/works/coursework_6-semester
 
