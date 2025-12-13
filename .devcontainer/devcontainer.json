@@ -12,7 +12,10 @@
             "settings": {
                 "latex-workshop.latex.recipe.default": "first",
                 "latex-workshop.latex.outDir": "%DIR%/build",
+<<<<<<< Updated upstream
                 "latex-workshop.formatting.latex": "latexindent",
+=======
+>>>>>>> Stashed changes
                 "latex-workshop.latex.autoBuild.run": "never",
                 "latex-workshop.latex.tools": [
                     {
