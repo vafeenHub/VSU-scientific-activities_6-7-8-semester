@@ -6,6 +6,8 @@
 \usepackage{enumitem}
 \usepackage{fancyhdr}
 
+\usepackage{pdfpages} % включение pdf в tex 
+
 % настройка нумерации страниц
 \pagestyle{fancy}
 \fancyhf{}
@@ -14,7 +16,9 @@
 
 \begin{document} 
 
-\input{Титульный лист.tex}
+% \input{Титульный лист.tex}
+% \input{Титульный лист_opened.tex}
+\includepdf[pages={1}]{Титульный лист.pdf}
 \newpage
 
 \thispagestyle{empty} % без номера страницы
